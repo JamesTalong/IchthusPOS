@@ -10,5 +10,4 @@ obj/
 .env
 firebase-service-account.json
 
-# Optional
-ichthus/
+
