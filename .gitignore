@@ -1,0 +1,14 @@
+# Visual Studio & Windows
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+
+# Secrets
+.env
+firebase-service-account.json
+
+# Optional
+ichthus/

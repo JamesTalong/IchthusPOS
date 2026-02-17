@@ -1,0 +1,6 @@
+@IchthusPOSWeb_HostAddress = http://localhost:5159
+
+GET {{IchthusPOSWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
